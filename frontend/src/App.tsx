@@ -1,5 +1,5 @@
 import NotificationButton from "./components/NotificationButton";
-import SalesCard from "./components/SalesCard"
+import SalesCard from "./components/SalesCard";
 import Header from "./components/Header";
 
 function App() {
